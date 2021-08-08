@@ -15,7 +15,7 @@
   
   - Node.js
   - Express.js
-  - 
+  
   - React.js
   - Next.js
 
