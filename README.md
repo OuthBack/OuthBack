@@ -1,13 +1,13 @@
-# 📖 About Me
-  ### 👏 Hi, I'm Henrique, also knowed as OuthBack.
-  ### Full-Stack -> M.E.R.N. Developer 🖥️
-  ### Brazilian :brazil:
-  ### Open to Learn 🧠
+## 📖 About Me
+  #### 👏 Hi, I'm Henrique, also knowed as OuthBack.
+  #### 🖥️ Full-Stack -> M.E.R.N. Developer
+  #### :brazil: Brazilian
+  #### 🧠 Open to Learn
   
-# 🎓 Academic
+## 🎓 Academic
   ### Pursing degree in Analysis and Systems Developments at Unicesumar
   
-# 🔋 Technologies
+## 🔋 Technologies
   - Javascript
   - Typescript
   - Python
@@ -24,8 +24,8 @@
   - MongoDB
   - PostgreSQL
  
-# 📚 Learning
-### AWS
+## 📚 Learning
+#### AWS
  
 <!--
 **OuthBack/OuthBack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
