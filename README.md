@@ -7,7 +7,7 @@
 # 🎓 Academics
   ### Pursing degree in Analysis and Systems Developments at Unicesumar
   
-# 🔋 Tecnologies
+# 🔋 Technologies
   - Javascript
   - Typescript
   - Python
