@@ -4,7 +4,7 @@
   ### :brazil: Brazilian 
   ### 🧠 Open to Learn 
   
-# 🎓 Academics
+# 🎓 Academic
   ### Pursing degree in Analysis and Systems Developments at Unicesumar
   
 # 🔋 Technologies
