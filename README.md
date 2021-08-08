@@ -13,13 +13,15 @@
   - Python
   - PHP
   
-  - MongoDB
-  - Express.js
-  - React.js
   - Node.js
-  
+  - Express.js
+  - 
+  - React.js
   - Next.js
+
   - GraphQL
+  
+  - MongoDB
   - PostgreSQL
  
 # 📚 Learning
