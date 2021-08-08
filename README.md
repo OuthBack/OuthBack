@@ -1,25 +1,25 @@
-### 📖 About Me
-  👏 Hi, I'm Henrique, also knowed as OuthBack.
-  🖥️ Full-Stack -> M.E.R.N. Developer
-  :brazil: Brazilian 
+# 📖 About Me
+  #### 👏 Hi, I'm Henrique, also knowed as OuthBack.
+  #### 🖥️ Full-Stack -> M.E.R.N. Developer
+  #### :brazil: Brazilian 
   
-### 🎓 Academics
-  Pursing degree in Analysis and Systems Developments at Unicesumar
+# 🎓 Academics
+  ### Pursing degree in Analysis and Systems Developments at Unicesumar
   
-### 🔋 Tecnologies
-  # Javascript
-  # Typescript
-  # Python
-  # PHP
+# 🔋 Tecnologies
+  - Javascript
+  - Typescript
+  - Python
+  - PHP
   
-  # MongoDB
-  # Express.js
-  # React.js
-  # Node.js
+  - MongoDB
+  - Express.js
+  - React.js
+  - Node.js
   
-  # Next.js
-  # GraphQL
-  # PostgreSQL
+  - Next.js
+  - GraphQL
+  - PostgreSQL
   
 <!--
 **OuthBack/OuthBack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
