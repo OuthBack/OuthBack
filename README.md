@@ -1,8 +1,8 @@
 # 📖 About Me
   ### 👏 Hi, I'm Henrique, also knowed as OuthBack.
   ### 🖥️ Full-Stack -> M.E.R.N. Developer
-  ### :brazil: Brazilian 
-  ### 🧠 Open to Learn 
+  ### Brazilian :brazil:
+  ### Open to Learn 🧠
   
 # 🎓 Academic
   ### Pursing degree in Analysis and Systems Developments at Unicesumar
