@@ -1,8 +1,8 @@
 # 📖 About Me
-  #### 👏 Hi, I'm Henrique, also knowed as OuthBack.
-  #### 🖥️ Full-Stack -> M.E.R.N. Developer
-  #### :brazil: Brazilian 
-  #### 🧠 Open to Learn 
+  ### 👏 Hi, I'm Henrique, also knowed as OuthBack.
+  ### 🖥️ Full-Stack -> M.E.R.N. Developer
+  ### :brazil: Brazilian 
+  ### 🧠 Open to Learn 
   
 # 🎓 Academics
   ### Pursing degree in Analysis and Systems Developments at Unicesumar
@@ -23,7 +23,7 @@
   - PostgreSQL
  
 # 📚 Learning
-#### AWS
+### AWS
  
 <!--
 **OuthBack/OuthBack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
