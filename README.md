@@ -1,27 +1,9 @@
 ## 📖 About Me
   #### 👏 Hi, I'm Henrique, also knowed as OuthBack.
-  #### 🖥️ Full-Stack
+  #### 🖥️ 
   #### :brazil: Brazilian
   #### 🧠 Open to Learn
   
-## 🎓 Academic
-  ### Pursing degree in Analysis and Systems Developments at Unicesumar
-  
-## 🔋 Technologies
-  - Javascript
-  - Typescript
-  - Python
-  - PHP
-  
-  - Node.js
-  - Express.js
-  
-  - React.js
-  - Next.js
-
-  - GraphQL
-  
-  - MongoDB
   - PostgreSQL
  
 
